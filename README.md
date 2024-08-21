@@ -10,9 +10,9 @@
 - ⚡ Fun fact: 🌵🐱‍💻
 
 
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.Instagram.com/ahmed_m.ezaat ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohamed-346b1a320/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@-nano) 
@@ -26,10 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AhmedMohamedEzaat&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohamedEzaat&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamedEzaat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AhmedMohamedEzaat&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
   
