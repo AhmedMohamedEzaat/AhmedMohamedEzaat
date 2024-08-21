@@ -37,6 +37,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmedMohamedEzaat&icon=2&color=11)](https://visitcount.itsvg.in)
 
+
+<br/>
+
+
+ 
+ <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
+
+<br/>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 AhmedMohamedEzaat/AhmedMohamedEzaat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
