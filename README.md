@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 ### 💫 About Me:
 - 👋 Hi, I’m @AhmedMohamedEzaat
 - 👀 I’m interested in Coding
@@ -6,7 +7,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: Male
 - ⚡ Fun fact: 🌵🐱‍💻
-
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images.app.goo.gl/x7UnYNUdRDjHmpxh9)")
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.Instagram.com/ahmed_m.ezaat ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohamed-346b1a320/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@-nano) 
