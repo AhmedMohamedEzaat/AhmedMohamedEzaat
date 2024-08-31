@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
+![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 
 ### 💫 About Me:
 - 👋 Hi, I’m @AhmedMohamedEzaat
